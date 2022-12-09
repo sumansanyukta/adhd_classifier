@@ -2,9 +2,9 @@
 
 Authors: Amir Jahanian Najafabadi; Sanyukta Suman; Professor Dr. Benjamin Godde 
 
-Email: a.jahaniannajafabadi@jacobs-university.de
+Email: a.jahaniannajafabadi@jacobs-university.de ; amirjahanian.neuro@gmail.com
 Email: sanyuktasuman28@gmail.com
-Email: b.godde@jacobs-university.de
+
 
 # ABSTRACT
 
