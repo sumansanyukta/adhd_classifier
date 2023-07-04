@@ -21,9 +21,9 @@ Results:The proposed model was evaluated by using the 5-fold cross validation te
 This manuscript was prepared using a limited access dataset obtained from the Child Mind
 Institute Bio bank, Healthy Brain Network. This manuscript reflects the views of the authors
 and does not necessarily reflect the opinions or views of the Child Mind Institute. Research
-reported in this publication was supported by Jacobs University and exposes the results of the
+reported in this publication was supported by Constructor University Bremen (formerly known as Jacobs Universioty Breemen) and exposes the results of the
 master thesis for the Data Engineering program. The 19-channels’ dataset from both ADHD
-children and adults were also provided for research purposes by Amir Jahanian Najafabadi
+children and adults were also provided for research purposes by Dr. Amir Jahanian Najafabadi
 and Dr. Farid Tofighnia, and this dataset was recorded from ADHD patients approached
-psychiatric clinic in Iran.
+psychiatric clinics in Iran.
 
