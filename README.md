@@ -1,8 +1,8 @@
 # Designing a Binary Classification Model to Differentiate Between ADHD and Healthy Subjects Using Resting State Electroencephalograpgy (EEG)
 
-Authors: Amir Jahanian Najafabadi; Sanyukta Suman; Professor Dr. Benjamin Godde 
+This work is a joint contribution of following authors: Dr. Amir Jahanian Najafabadi and Sanyukta Suman
 
-Email: a.jahaniannajafabadi@jacobs-university.de ; amirjahanian.neuro@gmail.com
+Email: amir.jahanian@uni-bielefeld.de ; amirjahanian.neuro@gmail.com
 Email: sanyuktasuman28@gmail.com
 
 
